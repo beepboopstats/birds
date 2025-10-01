@@ -1,3 +1,10 @@
+**/*.DS_Store
+content/
+assets/
+R/
+data/
+tmp/
+
 # History files
 .Rhistory
 .Rapp.history
@@ -39,11 +46,9 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# pkgdown site
-docs/
-
 # translation temp files
 po/*~
 
 # RStudio Connect folder
 rsconnect/
+
